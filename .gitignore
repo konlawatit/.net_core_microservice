@@ -1,0 +1,8 @@
+MangoRestaurant/.vs
+MangoRestaurant/Mango.Services.ProductAPI/bin
+MangoRestaurant/Mango.Services.ProductAPI/Migrations
+MangoRestaurant/Mango.Services.ProductAPI/obj/Debug
+
+MangoRestaurant/Mango.Web/bin
+MangoRestaurant/Mango.Web/Migrations
+MangoRestaurant/Mango.Web/obj/Debug
